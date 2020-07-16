@@ -10,38 +10,37 @@
 * Criar meu portifólio com os conhecimentos adiquiridos durante o desafio.
 
 #### Sobre HTML
-<!--ts-->
 
-* [HTML semântico ](#HTML-semântico )
 
-<!--te-->
+* HTML semântico 
+
 
 
 ####   Sobre CSS
-<!--ts-->
 
-   * [Estudar os fundamentos de propriedade de CSS](#Estudar-os-fundamentos-de-propriedade-de-CSS)
-    * [Layouts de marcação](#Layouts-de-marcação)
-    * [Flutuadores](#Flutuadores)
-     * [Posionamento](#Posionamento)
-     * [Posionamento](#Posionamento)
-     * [Display (Exibição)](#Display-(Exibição))
-     * [Box Model ](#Box-Model)
-     * [CSS Grid](#CSS-Grid)
-     * [Flex box](#Flex-box)
-     * [Design responsivo e consultas de Media Queries](#Design-responsivo-e-consultas-de-Media-Queries)
 
-<!--te-->
+ * Estudar os fundamentos de propriedade de CSS
+ * Layouts de marcação
+ * Flutuadores
+ * Posionamento
+ * Posionamento
+ * Display (Exibição) 
+ * Box Model  
+ * CSS Grid 
+ * Flex box 
+ * Design responsivo e consultas de Media Queries 
+
+
 
 #### Sobre JS
-<!--ts-->
-* [Estudando lógica de programação com JavaScript](#Estudando-lógica-de-programação-com-JavaScript)
-    * [Estudar e aprender os conceitos básicos](#Estudar-e-aprender-os-conceitos-básicos)
-    * [Aprenda manipulação DOM](#Aprenda-manipulação-DOM)
-     * [Testes com JavaScript](#Testes-com-JavaScript)
-     * [POO (Programação orientada a objetos) para JavaScript](#POO-(Programação-orientada-a-objetos)para-JavaScript)
-     * [Aprender Programação Funcional](#Aprender-Programação-Funcional)
-     * [Com o tempo aprender padrões de projetos em JavaScript](#Com-o-tempo-aprender-padrões-de-projetos-em-JavaScript)
+
+ * Estudando lógica de programação com JavaScript 
+ * Estudar e aprender os conceitos básicos 
+ * Aprenda manipulação DOM 
+ * Testes com JavaScript 
+ * POO (Programação orientada a objetos) para JavaScript 
+ * Aprender Programação Funcional 
+ * Com o tempo aprender padrões de projetos em JavaScript 
      
 <!--te-->
 
